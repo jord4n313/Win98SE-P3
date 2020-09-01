@@ -1,0 +1,100 @@
+#######################################################
+####################HARDWARE LIST######################
+#######################################################
+
+######################
+##########CPU#########
+######################
+
+Intel Pentium III
+      Currently: 450Mhz Katmai Slot 1
+      Target: 1.4Ghz FSB 133Mhz Tualatin Socket 370 with Slotket
+      Target 2: 1Ghz FSB 100Mhz Coppermine Socket 370 with Slotket
+     
+Slot 1 to Socket 370 Adapter (Slotket)
+      Target: Powerleap PL-IP3/T Slot 1 to Socket 370 Adapter
+      Target 2: Brand Name Slotket Slot 1 to Socket 370 Adapter with VCORE Adjustment
+      Target 3: Generic Slotket Slot 1 to Socket 370 Adapter with VCORE Adjustment
+      Target 4: Generic Slotket Slot 1 to Socket 370 Adapter without VCORE Adjustment
+      
+Heatsink/Fan for Slotket
+      Target:
+      
+Thermal Paster for Slotket
+      Targer:
+      
+#######################
+######MOTHERBOARD######
+#######################
+
+Intel WS400BX 66-100Mhz FSB (possible overclock to 133Mhz) 
+      Specs:
+        1 Intel Slot 1 CPU
+        3 PC66/PC100 SDRAM Slots
+        1 AGP 2X 3.3V
+        5 (4 if ISA is used) PCI 
+        1 ISA
+        2 IDE (2 Device)
+        1 Floppy (1 Device)
+        1 Wake On LAN
+        1 Wake On Ring
+        2 USB 1.1 External
+        1 USB 1.1 Internal Header
+        2 PS/2 Mouse/Keyboard Ports
+        2 Serial Ports
+        1 Paralell Port
+        1 Piezo Buzzer
+        
+#######################
+##########RAM##########
+#######################        
+
+Current Memory:
+        1 Generic 128GB Stick
+        1 Generic 64B Stick (Mislabeled as 128GB)
+        
+Target 1 Memory:
+        3 128GB PC-100 Sticks
+         
+Target 2 Memory:
+        2 256GB PC-100 16x8 Sticks
+        
+#######################
+#######VIDEOCARD#######
+#######################
+
+xx
+
+#######################
+#######SOUNDCARD#######
+#######################
+
+x
+
+#######################
+######HA#RDDISKS#######
+#######################
+
+x
+
+#######################
+######FLOPPYDISKS######
+#######################
+
+x
+
+#######################
+######OPTICALDISK######
+#######################
+
+x
+
+#######################
+#########CASE##########
+#######################
+
+x
+
+#######################
+######CONTROLLER######
+#######################
