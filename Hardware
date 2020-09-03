@@ -8,8 +8,8 @@
 
 Intel Pentium III
       Currently: 450Mhz Katmai Slot 1
-      Target: 1.4Ghz FSB 133Mhz Tualatin Socket 370 with Slotket
-      Target 2: 1Ghz FSB 100Mhz Coppermine Socket 370 with Slotket
+      Replacement 1: 1.4Ghz FSB 133Mhz Tualatin Socket 370 with Slotket
+      Replacement 2: 1Ghz FSB 100Mhz Coppermine Socket 370 with Slotket
      
 Slot 1 to Socket 370 Adapter (Slotket)
       Target: Powerleap PL-IP3/T Slot 1 to Socket 370 Adapter
@@ -20,8 +20,8 @@ Slot 1 to Socket 370 Adapter (Slotket)
 Heatsink/Fan for Slotket
       Target:
       
-Thermal Paster for Slotket
-      Targer:
+Thermal Paste for Slotket
+      Target:
       
 #######################
 ######MOTHERBOARD######
@@ -46,54 +46,131 @@ Intel WS400BX 66-100Mhz FSB (possible overclock to 133Mhz)
         1 Piezo Buzzer
         
 #######################
-##########RAM##########
+########Memory#########
 #######################        
 
-Current Memory:
+RAM:
+      Current Memory:
         1 Generic 128GB Stick
-        1 Generic 64B Stick (Mislabeled as 128GB)
-        
-Target 1 Memory:
+        1 Generic 64B Stick (Mislabeled as 128GB)        
+      Replacement 1:
         3 128GB PC-100 Sticks
-         
-Target 2 Memory:
+      Replacement 2:
         2 256GB PC-100 16x8 Sticks
+        
+Sound Card Memory:
+      Target:
+        2 30-Pin SIMM 16MB Memory Sticks for CT-3600
         
 #######################
 #######VIDEOCARD#######
 #######################
 
-xx
+AGP Video Card:
+      Cuurent:
+        1 Diamond S3 Savage 4
+      Replacement:
+        1 Voodoo3
+        
+PCI Video Card:
+      Target:
+        1 ?
 
 #######################
 #######SOUNDCARD#######
 #######################
 
-x
-
+ISA:
+      Current:
+        1 Sound Blaster 32 CT-3600 ISA
+      Target 1:
+        1 Gravis Ultrasound
+      Replacement:
+        1 Sound Blaster AWE 32/64 ISA
+     
+PCI:
+      Target 1: 
+        1 Aureal Vortex 2 PCI
+            
 #######################
-######HA#RDDISKS#######
+#######HARDDISKS#######
 #######################
 
-x
+Standard Hard Drive:
+      Current:
+        1 Western Digital 40GB IDE
+
+Solid State Drive:
+      Replacement:
+        1 Compact Flash Card 128GB
 
 #######################
 ######FLOPPYDISKS######
 #######################
 
-x
+Floppy Controller:
+      Current:
+        1 5.25" Floppy Drive
+      
+IDE Controller:      
+      Target 1:
+        1 LS-120 SuperDisk IDE
+      Target 2:
+        1 Zip 250 IDE
 
 #######################
 ######OPTICALDISK######
 #######################
 
-x
+IDE Controller:
+      Current:
+        1 Philips DVD-Rom & CR-Writer
+      Replacement:
+        1 52X CD-Rom
+        
+#######################
+##########PCI##########
+#######################
+
+Networking:
+      Current:
+        1 3COM 3C905-TX with WOL Cable
+      
+USB:
+      Target:
+        1 USB 2.0 PCI Card
+        
+IDE Controller:
+      Target:
+        1 ATA100 IDE Controller PCI Card
+
+#######################
+########CABLES#########
+#######################
+
+Floppy:
+      Current:
+        1 Standard Flat 2 Drive with 5.25" & 3.5" Connectors
+      Replacement:
+        1 Round Cable Single Drive 3.5" Connector
+        1 Extra short flat cable with 5.25" Connector & 3.5" female/extension connector
+      
+IDE:
+      Current:
+        2 Standard Flat 2 Drive
+      Replacement:
+        2 Round 2 Drive         
 
 #######################
 #########CASE##########
 #######################
 
-x
+PC Case:
+      Current:
+        1 Gateway Mini Tower (Yellowed & Cracked Front Panel)
+      Replacement:
+        1 
+        
 
 #######################
 ######CONTROLLER######
